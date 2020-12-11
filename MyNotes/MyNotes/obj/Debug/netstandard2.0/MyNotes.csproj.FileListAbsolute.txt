@@ -1,0 +1,15 @@
+D:\Dio\Xamarin\MyNotes\MyNotes\MyNotes\bin\Debug\netstandard2.0\MyNotes.deps.json
+D:\Dio\Xamarin\MyNotes\MyNotes\MyNotes\bin\Debug\netstandard2.0\MyNotes.dll
+D:\Dio\Xamarin\MyNotes\MyNotes\MyNotes\bin\Debug\netstandard2.0\ref\MyNotes.dll
+D:\Dio\Xamarin\MyNotes\MyNotes\MyNotes\bin\Debug\netstandard2.0\MyNotes.pdb
+D:\Dio\Xamarin\MyNotes\MyNotes\MyNotes\obj\Debug\netstandard2.0\MyNotes.csprojAssemblyReference.cache
+D:\Dio\Xamarin\MyNotes\MyNotes\MyNotes\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Dio\Xamarin\MyNotes\MyNotes\MyNotes\obj\Debug\netstandard2.0\MyNotes.AssemblyInfoInputs.cache
+D:\Dio\Xamarin\MyNotes\MyNotes\MyNotes\obj\Debug\netstandard2.0\MyNotes.AssemblyInfo.cs
+D:\Dio\Xamarin\MyNotes\MyNotes\MyNotes\obj\Debug\netstandard2.0\MyNotes.csproj.CoreCompileInputs.cache
+D:\Dio\Xamarin\MyNotes\MyNotes\MyNotes\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Dio\Xamarin\MyNotes\MyNotes\MyNotes\obj\Debug\netstandard2.0\MyNotes.dll
+D:\Dio\Xamarin\MyNotes\MyNotes\MyNotes\obj\Debug\netstandard2.0\ref\MyNotes.dll
+D:\Dio\Xamarin\MyNotes\MyNotes\MyNotes\obj\Debug\netstandard2.0\MyNotes.pdb
+D:\Dio\Xamarin\MyNotes\MyNotes\MyNotes\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Dio\Xamarin\MyNotes\MyNotes\MyNotes\obj\Debug\netstandard2.0\Views\DetailPage.xaml.g.cs

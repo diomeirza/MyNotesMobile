@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MyNotes.ViewModels"
+             x:Class="MyNotes.Views.DetailPage">
+
+    <ContentPage.BindingContext>
+        <local:DetailPageViewModel />
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="4*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Label Text="Detail Note" TextColor="Black" Margin="10,10"
+                   Grid.Row="0" Grid.Column="0" FontSize="Title" 
+                   VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+            <Label Text="{Binding NoteText}" TextColor="Black" Margin="10,10"
+                   Grid.Row="1" Grid.Column="0" FontSize="Body" 
+                   VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+            <Button BackgroundColor="Red" TextColor="White" Margin="10,10"
+                    Grid.Row="2" Grid.Column="0" Command="{Binding DismissCommand}" 
+                    Text="Dismiss" />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
